@@ -1,1 +1,1 @@
-<b> ## TESTING DA skills, practicals</b>
+## TESTING DA skills, practicals
